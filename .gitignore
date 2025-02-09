@@ -1,3 +1,7 @@
+.vs/
+.git/
+Debug/
+
 # Prerequisites
 *.d
 
