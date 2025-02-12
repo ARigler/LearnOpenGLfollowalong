@@ -3,6 +3,7 @@
 Debug/
 LearnOpe.57db5f7a/
 x64/
+include/glm/
 
 # Prerequisites
 *.d
